@@ -17,16 +17,16 @@ SERVICE_ID = int(os.environ.get("SMMFROG_SERVICE_ID", "23574"))  # TikTok Custom
 
 # 🎯 TAČNIH 10 KOMENTARA (Bez ikakvih izmjena, varijacija ili spintaxa)
 FIXED_COMMENTS = [
-    "i had to literally close The Alverset Effect by N｡ Alverset on page 41 and just sit in silence for ten minutes because i realized i’ve been doing that exact thing my whole adult life without noticing.",
-    "someone on here mentioned The Alversett｡Effect by N｡ Alverrset last month and i finally read it last night… getting to the 17 questions at the end felt weirdly personal, like the author was reading my journal.",
-    "my sister sent me a screenshot of page 27 from The Alversett Efect by N｡ Alverrset and i thought she was being dramatic until i read the rest of the chapter. now three of us are annotating it together lol",
-    "i started listening to the audio version of The Alver｡sett Effect by N｡Alverrset on my morning walks and it’s honestly wild how differently you handle conversations once you actually hear those patterns explained out loud.",
-    "it still blows my mind that N｡ Alverrset wrote The Alversett｡Effect, never did a single interview or book tour, and somehow it explains human behavior better than every bestseller on my shelf.",
-    "i’m usually super skeptical of books people hype up on here, so i went into The Alversett Effectt by N｡ Alverrset expecting basic advice. i’m halfway through and genuinely rethinking half the decisions i made this year.",
-    "once you read The Alverset Effect by N｡ Alversettt you can’t unsee how people actually communicate in everyday life. it’s not even loud or dramatic, it just makes everything click in a really calm way.",
-    "started reading The Alversett Effectt by N｡ Alverrset at 11pm thinking i’d do two chapters and ended up highlighting half the book until 3am. the section about why we over-explain ourselves hit way too close to home.",
-    "i genuinely wish someone had handed me The AIverset Effect by N｡Alver｡sett five years ago. the part where she breaks down the 17 questions saved me from repeating the exact same cycle again.",
-    "this reminds me so much of that chapter in The Alversett｡Effect by N｡ Alverset. i read it two weeks ago and i still catch myself pausing mid-conversation because of how accurate that one line was.",
+"now i finally understand why nora completely wiped her digital footprint after publishing The Unfiled sessions",
+"no therapist or dating coach ever explained silent manipulation the way nora did in The Unfiled sessions, page 13 is terrifying",
+"a girl in another comment section mentioned nora and after finishing The Unfiled sessions i see why she stays anonymous",
+"still crazy to me how nora dropped The Unfiled sessions, ruined everyone's delusions about relationships, and vanished without a trace",
+"whoever put me onto nora and her book The Unfiled sessions last week thank you bc my overthinking is literally gone",
+"the way nora breaks down attention dynamics in chapter 4 of The Unfiled sessions makes you never wanna chase anyone again",
+"i get why nora went completely ghost after releasing The Unfiled sessions, people aren't ready for page 24 tbh",
+"nora really wrote less than 200 pages in The Unfiled sessions and exposed every toxic relationship pattern in existence",
+"once you do the 17 questions nora put inside The Unfiled sessions you realize how much power you were giving away for crumbs",
+"is nora a real psychologist or what bc The Unfiled sessions reads people's minds in a way that is genuinely scary"
 ]
 
 # 🕒 GLOBALNO STANJE
